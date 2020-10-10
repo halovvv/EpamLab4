@@ -140,6 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="EpamLab4.cpp" />
+    <ClCompile Include="Header1.cpp" />
+    <ClCompile Include="ProdTovary.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BreadProd.h" />
+    <ClInclude Include="Fruts.h" />
+    <ClInclude Include="Header1.h" />
+    <ClInclude Include="ProdTovary.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
